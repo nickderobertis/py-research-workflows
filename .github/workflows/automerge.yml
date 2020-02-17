@@ -138,14 +138,12 @@ jobs:
           pipenv sync
           sudo apt-get install pandoc -y
       - name: Build Documentation
-        if: steps.output_pypi_version.outputs.version != steps.output_build_version.outputs.version
         run: |
           cd docsrc
           pipenv run make github
           cd ..
           echo "" > docs/.nojekyll
       - name: Deploy Documentation
-        if: steps.output_pypi_version.outputs.version != steps.output_build_version.outputs.version
         uses: peaceiris/actions-gh-pages@v2.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.gh_token }}
