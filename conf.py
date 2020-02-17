@@ -59,6 +59,20 @@ PACKAGE_INSTALL_REQUIRES = [
     # e.g.
     # 'package',
     # 'otherpackage>=1,<2'
+    'pandas',
+    'openpyxl',
+    'xlrd',
+    'statsmodels',
+    'linearmodels',
+    'matplotlib',
+    'seaborn',
+    'datacode',
+    'pyfileconf',
+    'pyexlatex',
+    'pd-utils',
+    'regtools',
+    'objcache',
+    'bibtex_gen',
 ]
 
 # Add any third party packages you use in requirements for optional features of your package here
