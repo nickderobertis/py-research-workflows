@@ -77,7 +77,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = conf.PACKAGE_NAME
+project = "Python Empirical Research Workflows"
 copyright = f'{datetime.datetime.now().year}, {conf.PACKAGE_AUTHOR}'
 author = conf.PACKAGE_AUTHOR
 

@@ -8,41 +8,15 @@ Welcome to Workflows for Empirical Research in Python documentation!
 
 Data munging, analysis, and presentation in Python
 
-To get started, look here.
-
-.. toctree::
-   :caption: Tutorial
-
-   tutorial
-   auto_examples/index
-
 An overview
 ===========
 
-Quick Links
-------------
+This website is meant for empirical researchers that want to get started with Python.
+If you've completed some tutorials on the Python basics, but now you're thinking,
+"Ok, how do I apply Python to research now?", then this is a good resource for you.
 
-Find the source code `on Github <https://github.com/nickderobertis/py-research-workflows>`_.
+Take a look at the Examples and Workflows section to get started.
 
+.. toctree::
 
-temp
--------------------------------------------------------
-
-
-This is a simple example:
-
-.. code:: python
-
-    import temp
-
-
-.. toctree:: api/modules
-   :caption: API Documentation
-   :maxdepth: 3
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   auto_examples/index
