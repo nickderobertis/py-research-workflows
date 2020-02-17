@@ -1,27 +1,9 @@
-
-[![](https://codecov.io/gh/nickderobertis/py-research-workflows/branch/master/graph/badge.svg)](https://codecov.io/gh/nickderobertis/py-research-workflows)
-
-# py-research-workflows
+# Workflows for Empirical Research in Python
 
 ## Overview
 
-Data munging, analysis, and presentation in Python
-
-## Getting Started
-
-Install `temp`:
-
-```
-pip install temp
-```
-
-A simple example:
-
-```python
-import temp
-
-# Do something with temp
-```
+Data munging, analysis, and presentation in Python. This repo 
+generates the documentation website which has all the content. 
 
 ## Links
 
