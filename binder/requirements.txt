@@ -1,0 +1,15 @@
+statsmodels
+bibtex_gen
+datacode
+pandas
+seaborn
+linearmodels
+pyfileconf
+pd-utils
+pyexlatex
+matplotlib
+regtools
+openpyxl
+xlrd
+temp
+objcache
