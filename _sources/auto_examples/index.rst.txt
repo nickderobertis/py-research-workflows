@@ -15,7 +15,7 @@ the bottom to get the example notebook running in the cloud.
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Prior to beginning the tutorial, please install the following packages via pip: - pandas - matp...">
+    <div class="sphx-glr-thumbcontainer" tooltip="Prior to beginning the tutorial, please install the following packages via pip:">
 
 .. only:: html
 

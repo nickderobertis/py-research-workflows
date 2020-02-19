@@ -3,8 +3,14 @@ Data Management in Python Using Standard Tooling
 ================================================
 
 Prior to beginning the tutorial, please install the following packages
-via ``pip``: - pandas - matplotlib - statsmodels - seaborn - openpyxl -
-xlrd
+via ``pip``:
+
+-  pandas
+-  matplotlib
+-  statsmodels
+-  seaborn
+-  openpyxl
+-  xlrd
 
 **Note**: if you're using Anaconda, some of these will be installed
 already.
