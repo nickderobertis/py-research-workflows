@@ -29,8 +29,6 @@ github:
 	@make cleandoc
 	@./binder_requirements.sh
 	@./nb-examples.sh
-	@make doctest
-	@make autodoc
 	@make html
 	@cp -a build/html/. ../docs
 
